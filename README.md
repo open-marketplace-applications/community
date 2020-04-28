@@ -22,3 +22,7 @@ If you want to join the team and become a solid part of the #OMA project, please
 Bring the Marketplace into your city 
 In this early stage of the project, we search for `Local Marketplace Leaders` which organize the deployment and the usage of an open marketplace in their city. 
 If you want to become a `Local Marketplace Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC).
+
+
+## Workding Groups
+TBA
