@@ -24,5 +24,7 @@ In this early stage of the project, we search for `Local Marketplace Leaders` wh
 If you want to become a `Local Marketplace Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC).
 
 
-## Workding Groups
-TBA
+## Working Groups
+
+- [TangleEE](https://tangle.ee/) - in progress
+- [Open Street Map](https://www.openstreetmap.org) - in request
