@@ -12,10 +12,10 @@ Just ad you GitHub handle, your skills, and that we can contact you, your discor
 If you want to join the team and become a solid part of the #OMA project, please introduce yourself in the `team-request` channel in our [Discord](https://discord.gg/XDQQcJC).
 
 
-| GitHub Name                | Role              | Discord Handle         |  Skills                            |
-|----------------------------|------------------ |------------------------|------------------------------------|
-| huhn511                  | Developer         | huhn#0511              | Javascript, Vue, Docker            |
-| Cryptec                  | Developer         | Martin N#8948          | Javascript, HTML, Expo             |
+| GitHub Name                               | Role              | Discord Handle         |  Skills                            |
+|-------------------------------------------|------------------ |------------------------|------------------------------------|
+| [huhn511](https://github.com/huhn511)     | Developer         | huhn#0511              | Javascript, Vue, Docker            |
+| [Cryptec](https://github.com/cryptec)     | Developer         | Martin N#8948          | Javascript, HTML, Expo             |
 
 
 ## Local Marketplace Leader
