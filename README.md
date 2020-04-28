@@ -14,8 +14,10 @@ If you want to join the team and become a solid part of the #OMA project, please
 
 | GitHub Name                | Role              | Discord Handle         |  Skills                            |
 |----------------------------|------------------ |------------------------|------------------------------------|
-| @huhn511                    | Developer         | huhn#0511              | Javascript, Vue, Docker            |
-| @Cryptec                    | Developer         | Martin N#8948          | Javascript, HTML, Expo             |
+| [huhn511]                  | Developer         | huhn#0511              | Javascript, Vue, Docker            |
+| [Cryptec]                  | Developer         | Martin N#8948          | Javascript, HTML, Expo             |
+
+* [ashleygwilliams] - **Ashley Williams** &lt;ashley666ashley@gmail.com&gt;
 
 ## Local Marketplace Leader
 Bring the Marketplace into your city 
