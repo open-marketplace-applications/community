@@ -24,7 +24,7 @@ If you want to join the team and become a solid part of the #OMA project, please
 
 A local leader brings the vision of #OMA to their city - with the mission to build up a local team, to fulfill the city needs.
 
-[See a list or learn more about Local Leaders here.](./docs/local-leaders/01_indroduction.md)
+[See a list or learn more about Local Leaders here.](./local-leaders/01_indroduction.md)
 
 In this early stage of the project, we search for `Local Leaders`.
 If you want to become a `Local Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC).
@@ -33,3 +33,15 @@ If you want to become a `Local Leader` please introduce yourself in the `local-l
 
 - [TangleEE](https://tangle.ee/) - in progress
 - [Open Street Map](https://www.openstreetmap.org) - in request
+
+
+## Governance
+This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, department and projects.
+ 
+[Our Association.](./governance/index.md)
+
+
+
+>“Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
+>
+>― Margaret Mead
