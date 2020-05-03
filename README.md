@@ -75,3 +75,14 @@ This document is to be understood as a supplement to our articles of association
 >“Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
 >
 >― Margaret Mead
+
+## Articles
+All Articles from [our Medium Blog](https://medium.com/open-marketplace-applications).
+
+- [Open Marketplace has opened](https://medium.com/open-marketplace-applications/open-marketplace-has-opened-a3cd5646a62b)
+- [#OMA Local Leaders — Empower Your Local Community](https://medium.com/open-marketplace-applications/oma-local-leaders-empower-your-local-community-cfd30f3c4fa8)
+- [#OMA Developers collaborate on IOTA and Eclipse Foundation’s Tangle Marketplaces](https://medium.com/open-marketplace-applications/oma-developers-collaborate-on-iota-and-eclipse-foundations-tangle-marketplaces-a63b3bdbfe62)
+- [#OMA - CODEVID-19 Hackathon Final Project Submission](https://medium.com/open-marketplace-applications/oma-codevid-19-hackathon-final-project-submission-123fb9399f9)
+- [Open Marketplace Applications — Drone Delivery Use Case](https://medium.com/open-marketplace-applications/open-marketplace-applications-drone-delivery-use-case-3f654265c03e?source=collection_home---6------4-----------------------)
+- [Open Platform — Open Data](https://medium.com/open-marketplace-applications/open-platform-open-data-620dee4f76d8?source=collection_home---6------5-----------------------)
+- [Announcing Open Marketplace Applications](https://medium.com/open-marketplace-applications/announcing-open-marketplace-applications-32a6f816ff74)
