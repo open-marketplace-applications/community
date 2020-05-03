@@ -1,0 +1,1 @@
+# All marketplaces based in Germany
