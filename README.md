@@ -5,8 +5,8 @@
   <a href="https://openmarketplace.org/">
      <img
       alt="open marketplace apps"
-      src="./public/oma.jpg"
-      width="200"
+      src="./public/logo.svg"
+      width="150"
     />
   </a>
 </p>
@@ -24,7 +24,6 @@
   </a>
 </p>
 
----
 
 # Community
 
