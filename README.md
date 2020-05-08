@@ -5,12 +5,11 @@
   <a href="https://openmarketplace.org/">
      <img
       alt="open marketplace apps"
-      src="./public/oma.jpg"
-      width="200"
+      src="./public/logo.svg"
+      width="150"
     />
   </a>
 </p>
-
 
 <h1 align="center"><a href="https://openmarketplace.org"> Open Marketplace Apps</a></h1>
 
@@ -26,7 +25,6 @@
   <br>
   <br>
 </p>
-
 
 # Community
 
@@ -64,19 +62,18 @@ If you want to become a `Local Leader` please introduce yourself in the `local-l
 - [TangleEE](https://tangle.ee/) - in progress
 - [Open Street Map](https://www.openstreetmap.org) - in request
 
-
 ## Governance
+
 This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, department and projects.
- 
+
 [Our Association.](./governance/index.md)
 
-
-
->“Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
+> “Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
 >
->― Margaret Mead
+> ― Margaret Mead
 
 ## Articles
+
 All Articles from [our Medium Blog](https://medium.com/open-marketplace-applications).
 
 - [Open Marketplace has opened](https://medium.com/open-marketplace-applications/open-marketplace-has-opened-a3cd5646a62b)
