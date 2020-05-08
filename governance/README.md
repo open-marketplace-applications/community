@@ -1,19 +1,25 @@
 # Governance
 
-This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, department and projects.
+This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, departments and projects.
 
-OMA Foundation will founded in 2020 with the purpose of supporting the local communities with open source apps. The main goal of the association is to create publicity for the topic Open Source. Our strategic goals and values are formulated in detail in the mission statement and are aligned with the goals of the Open Source Initiative. The mission statement is the center of the association and ensures that every member, organ, department and project contributes to the vision of the association.
+OMA Foundation will be founded in 2020 with the purpose of supporting the local communities with open source apps. The main goal of the association is to create publicity for the topic Open Source. Our strategic goals and values are formulated in detail in the mission statement and are aligned with the goals of the [Open Source Initiative](https://opensource.org/). The mission statement is the center of the association and ensures that every member, organ, department and project contributes to the broad vision of the association.
 
 ---
 
 ## Mission statement
 
-Our vision is to build a broad public around Open Source and help local communties to build a virtual marketplace with free open source applications.
+Our vision is to equip the people with free open source tools and decentralized infrastructure to bring control about data and revenue streams from global authorities back to the people.
 
 ### Mission
 
-For our members, we offer a contact point to get information and support. Our members have a political influence and can contribute to various departments according to their skills and desires.
-For the world, we want to provide information about Open Source. We publish articles, tutorials, videos, podcasts. We also organize and support events and workshops. And help with contribution on the Open Marketplace Applications Open Source Code.
+**For our members**
+...we want to offer an opportunity to be part of a purpose-driven and non-profit project with a broad vision for the future of mankind. We establish decentralized and self-sustained teams all over the globe. Our members have a political influence and can contribute to various departments according to their skills and desires.
+
+**For local authorities**
+...we want to bring the power back to local authorities instead of a few global players. We deeply believe that this will lead to a way more sustainable way of living.
+
+**For the world**
+...we want to increase awareness for open source solutions and make adoption of these solutions as easy as possible. We want to draw a different way of empowering people with tools.
 
 ### Goals
 
