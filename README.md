@@ -22,9 +22,9 @@
   <a title="Follow on Twitter" href="https://twitter.com/marketplace_org">
     <img src="https://img.shields.io/twitter/follow/marketplace_org.svg?style=social&label=Follow%20@marketplace_org">
   </a>
-  <br>
-  <br>
 </p>
+
+---
 
 # Community
 
