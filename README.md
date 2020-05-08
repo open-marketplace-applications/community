@@ -11,7 +11,6 @@
   </a>
 </p>
 
-
 <h1 align="center"><a href="https://openmarketplace.org"> Open Marketplace Apps</a></h1>
 
 <p align="center">Open marketplace apps are decentralised open source apps for smart cities and local communities. </p>
@@ -27,14 +26,13 @@
   <br>
 </p>
 
-
 # Community
 
 This is a news page for the #OMA community. With all information about governance, meetings, and contributors.
 
 ## Contributors
 
-This is a list will all persons, who participate in the #oma project in any case.
+This is a list with all the people participating in the #oma project.
 
 | GitHub Name                           | Role               | Discord Handle | Skills                                                           |
 | ------------------------------------- | ------------------ | -------------- | ---------------------------------------------------------------- |
@@ -44,45 +42,42 @@ This is a list will all persons, who participate in the #oma project in any case
 
 ### Become a contributor
 
-Just ad you GitHub handle, your skills, and that we can contact you, your discord handle to the table below. YOu can just create a fork, change it and make a pull request with your changes. [Learn how it works here.](./how-tos/01-create-merge-request.md)
+<!-- TODO: Add some explanation what people can understand from  -->
+
+Just add your GitHub handle, skills, and discord handle to the table below. You can just create a fork, change it and make a pull request with your changes. [Learn how it works here.](./how-tos/01-create-merge-request.md)
 
 ### Become a part of the team
 
-If you want to join the team and become a solid part of the #OMA project, please introduce yourself in the `team-request` channel in our [Discord](https://discord.gg/XDQQcJC).
+If you want to join the team and become a part of the #OMA project, please introduce yourself in the `team-request` channel in our [Discord](https://discord.gg/XDQQcJC). For now the only difference between a contributor and a team member is simply the activity in discord and an official team request. But, we have the aspiration to get funded in the future and pay a salary to our team members.
 
 ## Local Leaders
 
-A local leader brings the vision of #OMA to their city - with the mission to build up a local team, to fulfill the city needs.
+A local leader brings the vision of #OMA to their city - with the mission to build up a local team, to fulfill the cities needs.
 
-[See a list or learn more about Local Leaders here.](./local-leaders/01_indroduction.md)
+[See a list or learn more about Local Leaders here.](./local-leaders/README.md)
 
 In this early stage of the project, we search for `Local Leaders`.
 If you want to become a `Local Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC).
 
 ## Working Groups
 
+A working group, or working party, is a group of experts working together to achieve specified goals. The groups are domain-specific and focus on discussion or activity around a specific subject area.
+
+<!-- TODO: Add some explanation what people can understand from  -->
+
 - [TangleEE](https://tangle.ee/) - in progress
 - [Open Street Map](https://www.openstreetmap.org) - in request
 
-
 ## Governance
+
 This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, department and projects.
- 
+
 [Our Association.](./governance/index.md)
 
-
-
->“Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
+> “Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
 >
->― Margaret Mead
+> ― Margaret Mead
 
 ## Articles
-All Articles from [our Medium Blog](https://medium.com/open-marketplace-applications).
 
-- [Open Marketplace has opened](https://medium.com/open-marketplace-applications/open-marketplace-has-opened-a3cd5646a62b)
-- [#OMA Local Leaders — Empower Your Local Community](https://medium.com/open-marketplace-applications/oma-local-leaders-empower-your-local-community-cfd30f3c4fa8)
-- [#OMA Developers collaborate on IOTA and Eclipse Foundation’s Tangle Marketplaces](https://medium.com/open-marketplace-applications/oma-developers-collaborate-on-iota-and-eclipse-foundations-tangle-marketplaces-a63b3bdbfe62)
-- [#OMA - CODEVID-19 Hackathon Final Project Submission](https://medium.com/open-marketplace-applications/oma-codevid-19-hackathon-final-project-submission-123fb9399f9)
-- [Open Marketplace Applications — Drone Delivery Use Case](https://medium.com/open-marketplace-applications/open-marketplace-applications-drone-delivery-use-case-3f654265c03e?source=collection_home---6------4-----------------------)
-- [Open Platform — Open Data](https://medium.com/open-marketplace-applications/open-platform-open-data-620dee4f76d8?source=collection_home---6------5-----------------------)
-- [Announcing Open Marketplace Applications](https://medium.com/open-marketplace-applications/announcing-open-marketplace-applications-32a6f816ff74)
+All articles from [our Medium Blog](https://medium.com/open-marketplace-applications).
