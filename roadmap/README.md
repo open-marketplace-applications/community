@@ -47,11 +47,11 @@ Our vision is to equip the people with free open source tools and decentralized 
 
 ## 💪 Open Challenges
 
-- #4
-- #5
-- #6
-- #7
-- #8
+- Order Management Calendar #4
+- FAQ Chat Bot - Open Source Machine Learning  #5
+- Setup a Deployment Pipeline (CD/CI) for Frontend Applications on IPFS #6
+- Open Street Map - City Data Mapping #7
+- Rewarding system for OpenStreetMap Contributions #8
 
 
 ## 🖊 Last Edit
