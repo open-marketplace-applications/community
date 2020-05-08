@@ -4,6 +4,8 @@ This document is to be understood as a supplement to our articles of association
 
 OMA Foundation will be founded in 2020 with the purpose of supporting the local communities with open source apps. The main goal of the association is to create publicity for the topic Open Source. Our strategic goals and values are formulated in detail in the mission statement and are aligned with the goals of the [Open Source Initiative](https://opensource.org/). The mission statement is the center of the association and ensures that every member, organ, department and project contributes to the broad vision of the association.
 
+---
+
 ## Mission statement
 
 Our vision is to equip the people with free open source tools and decentralized infrastructure to bring control about data and revenue streams from global authorities back to the people.
@@ -28,6 +30,8 @@ We want to make knowledge of Open Source Apps accessible to the general public i
 We align our projects strategically with our vision and goals. With our values we want to create a framework for our moral compass.
 Our values are privacy, transparency, authenticity, diversity, courage, autonomy and social and ecological responsibility.
 
+---
+
 ## Organs
 
 There are two organs at #OMA: the board and the general assembly. The board meets regularly every two weeks and the general meeting once a year.
@@ -40,6 +44,8 @@ The board is represented by five to nine active members, who are responsible for
 
 The general assembly consists of all members of the association. Each member has one vote here and decides on changes to the statutes and important concerns of the association. The general meeting meets once a year and constitutes the executive board there.
 
+---
+
 ## Members
 
 To become a member you have to be of legal age, close to our goals and to apply for membership. Each member has one vote in the general assembly. We differentiate between four types of membership:
@@ -49,6 +55,8 @@ Active members participate in the association's work and belong to at least one 
 Passive members only pay a membership fee annually, but do not actively participate in association work and do not belong to any department.
 
 Honorary members can be appointed by the general assembly if members have rendered outstanding service to the association.
+
+---
 
 ## Departments
 
