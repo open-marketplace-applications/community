@@ -4,10 +4,10 @@
 Our vision is to equip the people with free open source tools and decentralized infrastructure to bring control about data and revenue streams from global authorities back to the people.
 
 ## 🎯 2020 Goals
-- [ ] 🎯 Get a Production Ready Marketplace
-- [ ] 🎯 Build up a Community
-- [ ] 🎯 Build up a Team
-- [ ] 🎯 Live in 100 Cities
+- [ ] Get a Production Ready Marketplace
+- [ ] Build up a Community
+- [ ] Build up a Team
+- [ ] Live in 100 Cities
 
 ## 📝 Project Boards
 - [Marketplace](https://github.com/open-marketplace-applications/marketplace/projects/1)
@@ -44,6 +44,14 @@ Our vision is to equip the people with free open source tools and decentralized 
 **November**
 
 **December**
+
+## 💪 Open Challenges
+
+- #4
+- #5
+- #6
+- #7
+- #8
 
 
 ## 🖊 Last Edit
