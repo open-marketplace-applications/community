@@ -38,12 +38,32 @@ Every open marketplace in a city begins with one `Local Leader`, while there is 
 
 ---
 
-## Become a part of this story
+## Become a Local Leader
 
-If you want to become a `Local Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC).
+To become a `Local Leader` you need to go through the onboarding process:
 
----
+<!-- If you want to become a `Local Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC). -->
 
-## Local Leaders Lists
+### Apply as a Local Leader
 
-- [Germany](./de/README.md)
+If you are interested to become a local leader these are your first steps:
+
+1. **Read role description Local Leaders**
+   Post your introduction in the [Discord](https://discord.gg/XDQQcJC) channel #local-leader-requests. The message should contain: City, Touchpoint - How you found OMA, Why you want to join
+   <br>
+2. **Local Leader verification**
+   First a Local Leader will contact you and invite you to the first step of the onboarding process. This will be a short conversation (chat/video - up to you) with you to introduce you to the role and answer your questions. After you have been verified by the Local Leader he will hand you over to a trusted local leader for the actual onboarding.
+   <br>
+3. **Trusted Local Leader verification**
+   For now you will just be added to the #local-leaders-intern group by a trusted local leader. The trusted local leader will ask you for personal information (name, email) to add you to the list of local leaders.
+   _But soon we will have another step here:
+   After that he will set up the marketplace for your city with you together and introduce you to the system._
+
+### Verify an Application as Local Leader
+
+As a local leader you can verify new applicants.
+
+1. **Give the applicant a warm welcome 👋**
+2. Invite him/her to a conversation to **clarify questions and motivation**
+3. After you are **convinced of the applicants trustworthiness** post this message in the #local-leaders-intern channel:
+   _“@applicant is ready for the final onboarding @trusted-local-leaders”_
