@@ -38,7 +38,7 @@ There are different opportunities to join the OMA project.
 
 ### Become a contributor
 
-Just add your GitHub handle, skills, and discord handle to the table below. You can just create a fork, change it and make a pull request with your changes. [Learn how it works here.](./how-tos/01-create-merge-request.md)
+Just add your GitHub handle, skills, and discord handle to the table below. You can just create a fork, change it and make a pull request with your changes. [TBD - Learn how it works here.](./how-tos/01-create-merge-request.md)
 
 ### Become a team member
 
@@ -48,7 +48,7 @@ If you want to join the team and become a part of the #OMA project, please intro
 
 A local leader brings the vision of #OMA to their city - with the mission to build up a local team, to fulfill the cities needs.
 
-[See a list or learn more about Local Leaders here.](./local-leaders/README.md)
+[Learn more about Local Leaders here.](./local-leaders/README.md)
 
 In this early stage of the project, we search for `Local Leaders`.
 If you want to become a `Local Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC).
@@ -68,7 +68,7 @@ A working group, or working party, is a group of experts working together to ach
 
 This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, department and projects.
 
-[Our Association.](./governance/index.md)
+[Our Association.](./governance/README.md)
 
 > “Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
 >
