@@ -1,0 +1,427 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Open Marketplace Apps Community</title>
+        
+        <meta name="robots" content="noindex" />
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> 👋 Welcome</a></li><li class="chapter-item expanded "><a href="docs/governance/index.html"><strong aria-hidden="true">2.</strong> 🌐 Governance</a></li><li class="chapter-item expanded "><a href="docs/local-leaders/index.html"><strong aria-hidden="true">3.</strong> 👨‍💼 Local Leaders</a></li><li class="chapter-item expanded "><a href="docs/roadmap/index.html"><strong aria-hidden="true">4.</strong> 📅 Roadmap</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Open Marketplace Apps Community</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <!--lint disable no-literal-urls-->
+<p align="center">
+  <br>
+  <a href="https://openmarketplace.org/">
+     <img
+      alt="open marketplace apps"
+      src="./public/logo.svg"
+      width="150"
+    />
+  </a>
+</p>
+<h1 align="center"><a href="https://openmarketplace.org"> Open Marketplace Apps</a></h1>
+<p align="center">Open marketplace apps are decentralized open source apps for smart cities and local communities.</p>
+<p align="center">
+  <a title="MIT License" href="LICENSE">
+    <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square&label=License&colorB=6cc24a">
+  </a>
+  <a title="Follow on Twitter" href="https://twitter.com/marketplace_org">
+    <img src="https://img.shields.io/twitter/follow/marketplace_org.svg?style=social&label=Follow%20@marketplace_org">
+  </a>
+</p>
+<hr />
+<h1><a class="header" href="#community" id="community">Community</a></h1>
+<p>This is a documentation page for the #OMA community. With all information about governance, meetings, and contributors.</p>
+<hr />
+<h2><a class="header" href="#join-us" id="join-us">Join us</a></h2>
+<p>There are different opportunities to join the OMA project.</p>
+<h3><a class="header" href="#become-a-contributor" id="become-a-contributor">Become a contributor</a></h3>
+<p>Just add your GitHub handle, skills, and discord handle to the table below. You can just create a fork, change it and make a pull request with your changes. <a href="./how-tos/01-create-merge-request.html">TBD - Learn how it works here.</a></p>
+<h3><a class="header" href="#become-a-team-member" id="become-a-team-member">Become a team member</a></h3>
+<p>If you want to join the team and become a part of the #OMA project, please introduce yourself in the <code>team-request</code> channel in our <a href="https://discord.gg/XDQQcJC">Discord</a>. For now the only difference between a contributor and a team member is simply the activity in discord and an official team request. But, we have the aspiration to get funded in the future and pay a salary to our team members.</p>
+<h3><a class="header" href="#local-leaders" id="local-leaders">Local Leaders</a></h3>
+<p>A local leader brings the vision of #OMA to their city - with the mission to build up a local team, to fulfill the cities needs.</p>
+<p><a href="./local-leaders/README.html">Learn more about Local Leaders here.</a></p>
+<p>In this early stage of the project, we search for <code>Local Leaders</code>.
+If you want to become a <code>Local Leader</code> please introduce yourself in the <code>local-leader-request</code> channel in our <a href="https://discord.gg/XDQQcJC">Discord</a>.</p>
+<hr />
+<h2><a class="header" href="#working-groups" id="working-groups">Working Groups</a></h2>
+<p>A working group, or working party, is a group of experts working together to achieve specified goals. The groups are domain-specific and focus on discussion or activity around a specific subject area.</p>
+<ul>
+<li><a href="https://tangle.ee/">TangleEE</a> - in progress</li>
+<li><a href="https://www.openstreetmap.org">Open Street Map</a> - in request</li>
+</ul>
+<hr />
+<h2><a class="header" href="#governance" id="governance">Governance</a></h2>
+<p>This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, department and projects.</p>
+<p><a href="./governance/README.html">Our Association.</a></p>
+<blockquote>
+<p>“Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”</p>
+<p>― Margaret Mead</p>
+</blockquote>
+<hr />
+<h2><a class="header" href="#further-reading" id="further-reading">Further reading</a></h2>
+<p>All articles from <a href="https://medium.com/open-marketplace-applications">our Medium Blog</a>.</p>
+<h1><a class="header" href="#governance-1" id="governance-1">Governance</a></h1>
+<p>This document is to be understood as a supplement to our articles of association. Here we examine again our mission statement, the members, organs, departments and projects.</p>
+<p>OMA Foundation will be founded in 2020 with the purpose of supporting the local communities with open source apps. The main goal of the association is to create publicity for the topic Open Source. Our strategic goals and values are formulated in detail in the mission statement and are aligned with the goals of the <a href="https://opensource.org/">Open Source Initiative</a>. The mission statement is the center of the association and ensures that every member, organ, department and project contributes to the broad vision of the association.</p>
+<hr />
+<h2><a class="header" href="#mission-statement" id="mission-statement">Mission statement</a></h2>
+<p>Our vision is to equip the people with free open source tools and decentralized infrastructure to bring control about data and revenue streams from global authorities back to the people.</p>
+<h3><a class="header" href="#mission" id="mission">Mission</a></h3>
+<p><strong>For our members</strong>
+...we want to offer an opportunity to be part of a purpose-driven and non-profit project with a broad vision for the future of mankind. We establish decentralized and self-sustained teams all over the globe. Our members have a political influence and can contribute to various departments according to their skills and desires.</p>
+<p><strong>For local authorities</strong>
+...we want to bring the power back to local authorities instead of a few global players. We deeply believe that this will lead to a way more sustainable way of living.</p>
+<p><strong>For the world</strong>
+...we want to increase awareness for open source solutions and make adoption of these solutions as easy as possible. We want to draw a different way of empowering people with tools.</p>
+<h3><a class="header" href="#goals" id="goals">Goals</a></h3>
+<p>We want to make knowledge of Open Source Apps accessible to the general public in simple language. We would like to provide current information about news, progress, projects and events. We would like to promote the application of #OMA in practice.</p>
+<h3><a class="header" href="#values" id="values">Values</a></h3>
+<p>We align our projects strategically with our vision and goals. With our values we want to create a framework for our moral compass.
+Our values are privacy, transparency, authenticity, diversity, courage, autonomy and social and ecological responsibility.</p>
+<hr />
+<h2><a class="header" href="#organs" id="organs">Organs</a></h2>
+<p>There are two organs at #OMA: the board and the general assembly. The board meets regularly every two weeks and the general meeting once a year.</p>
+<h3><a class="header" href="#board" id="board">Board</a></h3>
+<p>The board is represented by five to nine active members, who are responsible for at least one of the following units: chair, vice chair, finance, vice finance, community, events, editing, design and development. The office of Chair, Vice Chair, Finance and Vice Finance must be filled by different active members. However, these, as well as the other board members, may hold a total of two positions. The board meets every two weeks in a remote meeting and processes inquiries and requests from members and the community.</p>
+<h3><a class="header" href="#community-1" id="community-1">Community</a></h3>
+<p>The general assembly consists of all members of the association. Each member has one vote here and decides on changes to the statutes and important concerns of the association. The general meeting meets once a year and constitutes the executive board there.</p>
+<hr />
+<h2><a class="header" href="#members" id="members">Members</a></h2>
+<p>To become a member you have to be of legal age, close to our goals and to apply for membership. Each member has one vote in the general assembly. We differentiate between four types of membership:</p>
+<p>Active members participate in the association's work and belong to at least one department.</p>
+<p>Passive members only pay a membership fee annually, but do not actively participate in association work and do not belong to any department.</p>
+<p>Honorary members can be appointed by the general assembly if members have rendered outstanding service to the association.</p>
+<hr />
+<h2><a class="header" href="#departments" id="departments">Departments</a></h2>
+<p>Departments are different areas of activity of the association. Our lectures are chair, finance, marketing, design, development, events and community. Each unit has one - chair and finance two - representatives on the board. This means that there are up to nine board members in seven lectures. Each department has different tasks and areas of responsibility. In the design department there are, for example, graphics, UI / UX, audio and film. As an active member, you can freely choose which units you want to participate in and apply once a year for the position of head of unit. The head of unit, i.e. member of the board, also has strategic and organizational responsibility.</p>
+<h3><a class="header" href="#chair" id="chair">Chair</a></h3>
+<p>The role of the chairperson primarily consists of communication, moderation and organization. The main responsibility of the chairman is to oversee, manage and represent the entire association internally and externally. It represents the interests of the entire association and represents the association legally vis-à-vis third parties.</p>
+<h3><a class="header" href="#finances" id="finances">Finances</a></h3>
+<p>Together with the Chair, the Office of Finance has the responsibility to create stable organizational structures. The task is to put the association legally, financially and organizationally on a sustainable foundation. Specific tasks are the administration of the cash registers and accounts, accounting, finance and controlling.</p>
+<h3><a class="header" href="#community-2" id="community-2">Community</a></h3>
+<p>The Community unit has two central tasks: Increasing the reach of the association with regard to the growth of our members, community and followers. Specific tasks here are moderating social media, Discord and the Community Forum, as well as establishing contacts and communication.</p>
+<h3><a class="header" href="#design" id="design">Design</a></h3>
+<p>The design department supports the association on two levels. Firstly, in the design of processes, structures and the corporate identity of the association. On the other hand, in the creative implementation of points of contact, such as the website, business cards or the magazine. There are the following areas: graphics, UI / UX, film and audio.</p>
+<h3><a class="header" href="#development" id="development">Development</a></h3>
+<p>The development unit has three main tasks. First, the development and maintenance of applications such as the website or useful tools. Second, ensuring stable IT structures for the club. And thirdly, the training and further education of the community and beyond.</p>
+<h3><a class="header" href="#marketing" id="marketing">Marketing</a></h3>
+<p>The marketing team takes care of journalistic work such as conducting interviews or doing research. The marketing team also writes, corrects and translates articles and post on serveral social media channels.</p>
+<h3><a class="header" href="#events" id="events">Events</a></h3>
+<p>The Events department takes care of the planning and execution of workshops and events. We usually support and help with workshops, keynotes or information stands, with the organization, or simply as a network.</p>
+<h1><a class="header" href="#local-leaders-1" id="local-leaders-1">Local Leaders</a></h1>
+<p>A <code>Local Leader</code> brings the vision of <a href="https://openmarketplace.org">#OMA</a> to their city - with the mission to establish an open marketplace and to build up a local team, to fulfill the cities needs.</p>
+<hr />
+<h2><a class="header" href="#what-is-the-role-of-a-local-leader" id="what-is-the-role-of-a-local-leader">What is the role of a Local Leader?</a></h2>
+<p>A <code>Local Leader</code> acts as a speaker and manager for the representative region.</p>
+<hr />
+<h2><a class="header" href="#what-are-the-responsibilities-and-objectives" id="what-are-the-responsibilities-and-objectives">What are the responsibilities and objectives?</a></h2>
+<p><strong>Setup a local marketplace</strong>
+The most obvious objective is to set up a local marketplace and maintain it. In the best case you empower your region to be it's own platform provider, which means you might need some infrastructure and technical knowledge to do so. Since most <code>Local Leaders</code> might not have any technical skills, the second objective <code>build a team</code> can be a precondition to do so.</p>
+<p><strong>Build a local OMA team</strong>
+A good starting point for a local team is having a developer, a designer, a marketer and a trustworthy person to manage finances. But there is no limit to the amount of team members a local team can have. It also depends heavily of the size of your region.</p>
+<p><strong>Increase public awareness</strong>
+In order to succeed against competitors like amazon, the biggest hurdle is to convince the people from the advantages of a decentralized marketplace.</p>
+<p><strong>Collect local data</strong>
+Most importantly we need extensive data about shops, to empower the local shops to compete against other e-commerce platforms. But there is lots of other data like public places, free-time activities, flora, fauna or even the weather that could provide valuable information.</p>
+<p><strong>Provide Feedback</strong>
+It is really important to communicate problems, solutions and requirements from your region to the global OMA team.</p>
+<p><strong>Verify new Local Leaders</strong>
+Our aspiration is to create a self-sustained management framework for <code>Local Leader</code> world wide. This is why you as a <code>Local Leader</code> can verify other local leaders. To verify a new <code>Local Leader</code>, two verified <code>Local Leaders</code> are required. They do the onboarding together and act as contact persons for questions.</p>
+<hr />
+<h2><a class="header" href="#how-many-local-leaders-do-we-need" id="how-many-local-leaders-do-we-need">How many Local Leaders do we need?</a></h2>
+<p>Every open marketplace in a city begins with one <code>Local Leader</code>, while there is no limit, because cities might need many <code>Local Leader</code> to manage the scope.</p>
+<hr />
+<h2><a class="header" href="#become-a-local-leader" id="become-a-local-leader">Become a Local Leader</a></h2>
+<p>To become a <code>Local Leader</code> you need to go through the onboarding process:</p>
+<!-- If you want to become a `Local Leader` please introduce yourself in the `local-leader-request` channel in our [Discord](https://discord.gg/XDQQcJC). -->
+<h3><a class="header" href="#apply-as-a-local-leader" id="apply-as-a-local-leader">Apply as a Local Leader</a></h3>
+<p>If you are interested to become a local leader these are your first steps:</p>
+<ol>
+<li><strong>Read role description Local Leaders</strong>
+Post your introduction in the <a href="https://discord.gg/XDQQcJC">Discord</a> channel #local-leader-requests. The message should contain: City, Touchpoint - How you found OMA, Why you want to join
+<br></li>
+<li><strong>Local Leader verification</strong>
+First a Local Leader will contact you and invite you to the first step of the onboarding process. This will be a short conversation (chat/video - up to you) with you to introduce you to the role and answer your questions. After you have been verified by the Local Leader he will hand you over to a trusted local leader for the actual onboarding.
+<br></li>
+<li><strong>Trusted Local Leader verification</strong>
+For now you will just be added to the #local-leaders-intern group by a trusted local leader. The trusted local leader will ask you for personal information (name, email) to add you to the list of local leaders.
+<em>But soon we will have another step here:
+After that he will set up the marketplace for your city with you together and introduce you to the system.</em></li>
+</ol>
+<h3><a class="header" href="#verify-an-application-as-local-leader" id="verify-an-application-as-local-leader">Verify an Application as Local Leader</a></h3>
+<p>As a local leader you can verify new applicants.</p>
+<ol>
+<li><strong>Give the applicant a warm welcome 👋</strong></li>
+<li>Invite him/her to a conversation to <strong>clarify questions and motivation</strong></li>
+<li>After you are <strong>convinced of the applicants trustworthiness</strong> post this message in the #local-leaders-intern channel:
+<em>“@applicant is ready for the final onboarding @trusted-local-leaders”</em></li>
+</ol>
+<h1><a class="header" href="#oma-roadmap" id="oma-roadmap">OMA Roadmap</a></h1>
+<h2><a class="header" href="#-mission-statement" id="-mission-statement">🌐 Mission Statement</a></h2>
+<p>Our vision is to equip the people with free open source tools and decentralized infrastructure to bring control about data and revenue streams from global authorities back to the people.</p>
+<h2><a class="header" href="#-2020-goals" id="-2020-goals">🎯 2020 Goals</a></h2>
+<ul>
+<li><input disabled="" type="checkbox"/>
+Get a Production Ready Marketplace</li>
+<li><input disabled="" type="checkbox"/>
+Build up a Community</li>
+<li><input disabled="" type="checkbox"/>
+Build up a Team</li>
+<li><input disabled="" type="checkbox"/>
+Live in 100 Cities</li>
+</ul>
+<h2><a class="header" href="#-project-boards" id="-project-boards">📝 Project Boards</a></h2>
+<ul>
+<li><a href="https://github.com/open-marketplace-applications/marketplace/projects/1">Marketplace</a></li>
+<li><a href="https://github.com/open-marketplace-applications/shop/projects/1">Shop</a></li>
+<li><a href="https://github.com/open-marketplace-applications/chat/projects/1">Chat</a></li>
+<li><a href="https://github.com/open-marketplace-applications/news/projects/1">News</a></li>
+<li><a href="https://github.com/open-marketplace-applications/drone/projects/1">Drone</a></li>
+<li>Social Network (TBA)</li>
+<li>Delivery (TBA)</li>
+<li>Coupons (TBA)</li>
+<li>Data Marketplace (TBA)</li>
+</ul>
+<h2><a class="header" href="#-calendar" id="-calendar">📅 Calendar</a></h2>
+<p><strong>May</strong></p>
+<p>08.05.2020</p>
+<ul>
+<li><input disabled="" type="checkbox" checked=""/>
+Creation of the Roadmap </li>
+</ul>
+<p>17.05.2020</p>
+<ul>
+<li><input disabled="" type="checkbox"/>
+IOTA Hackster.io Hackathon Deadline </li>
+</ul>
+<p><strong>June</strong></p>
+<p><strong>July</strong></p>
+<p><strong>August</strong></p>
+<p><strong>September</strong></p>
+<p><strong>October</strong></p>
+<p><strong>November</strong></p>
+<p><strong>December</strong></p>
+<h2><a class="header" href="#-open-challenges" id="-open-challenges">💪 Open Challenges</a></h2>
+<ul>
+<li>Order Management Calendar #4</li>
+<li>FAQ Chat Bot - Open Source Machine Learning  #5</li>
+<li>Setup a Deployment Pipeline (CD/CI) for Frontend Applications on IPFS #6</li>
+<li>Open Street Map - City Data Mapping #7</li>
+<li>Rewarding system for OpenStreetMap Contributions #8</li>
+</ul>
+<h2><a class="header" href="#-last-edit" id="-last-edit">🖊 Last Edit</a></h2>
+<p>Version: v0.0.1
+Last Update: 08-05-2020
+By: @huhn511</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+        
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+        
+        
+
+    </body>
+</html>
