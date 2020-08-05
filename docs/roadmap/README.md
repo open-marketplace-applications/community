@@ -29,11 +29,12 @@ Our vision is to equip the people with free open source tools and decentralized 
 - [x] Creation of the Roadmap 
 
 17.05.2020
-- [ ] IOTA Hackster.io Hackathon Deadline 
+- [x] IOTA Hackster.io Hackathon Deadline 
 
 **June**
-
+- [x] Summer Break
 **July**
+- [x] Summer Break
 
 **August**
 
